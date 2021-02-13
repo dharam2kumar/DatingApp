@@ -16,6 +16,7 @@ namespace DatingAPI
     {
         public static async Task Main(string[] args)
         {
+            //start
             var host = CreateHostBuilder(args).Build();
             using var scope = host.Services.CreateScope();
 
