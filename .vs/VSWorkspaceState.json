@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Data"
+    "\\client",
+    "\\Entities",
+    "\\obj"
   ],
-  "SelectedNode": "\\appsettings.json",
+  "SelectedNode": "\\bin",
   "PreviewInSolutionExplorer": false
 }
